@@ -5142,22 +5142,20 @@ ember-fetch@6.0.0:
     rollup-plugin-babel "^3.0.7"
     whatwg-fetch "^3.0.0"
 
-ember-fetch@6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/ember-fetch/-/ember-fetch-6.1.0.tgz#cf0f4469cefdfab11b42899e61318d489a5e51f4"
-  integrity sha512-UYOHboZpH5sPBgj9/nASZAqII7qadj/e8EgkGtXAJnF4pOWcxJVCFPYTyyvYPUTWnC6Yte+nkEywbvo6QBK6og==
+ember-fetch@6.2.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/ember-fetch/-/ember-fetch-6.2.0.tgz#88988e1fb94f44722a1cbb9416310711e65f6706"
+  integrity sha512-Rc/QgsfPOldT55WSnlN4z7TqKsE1YqGnjAwB7I8myjgEulIu00t0wx4zLjznEz5ng6VeRupXW6WaGE/B/0BYUA==
   dependencies:
     abortcontroller-polyfill "^1.1.9"
-    babel-core "^6.26.3"
-    babel-preset-env "^1.7.0"
     broccoli-concat "^3.2.2"
+    broccoli-debug "^0.6.5"
     broccoli-merge-trees "^3.0.0"
     broccoli-rollup "^2.1.1"
     broccoli-stew "^2.0.0"
     broccoli-templater "^2.0.1"
     ember-cli-babel "^6.8.2"
-    node-fetch "^2.0.0-alpha.9"
-    rollup-plugin-babel "^3.0.7"
+    node-fetch "^2.3.0"
     whatwg-fetch "^3.0.0"
 
 ember-fetch@^5.1.3:
@@ -9352,6 +9350,11 @@ node-fetch@^2.0.0-alpha.9:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.2.0.tgz#4ee79bde909262f9775f731e3656d0db55ced5b5"
   integrity sha512-OayFWziIxiHY8bCUyLX6sTpDH8Jsbp4FfYd1j1f7vZyfgkcOnAyM4oQR16f8a0s7Gl/viMGRey8eScYk4V4EZA==
+
+node-fetch@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.3.0.tgz#1a1d940bbfb916a1d3e0219f037e89e71f8c5fa5"
+  integrity sha512-MOd8pV3fxENbryESLgVIeaGKrdl+uaYhCSSVkjeOb/31/njTpcis5aWfdqgNlHIrKOLRbMnfPINPOML2CIFeXA==
 
 node-gyp@^3.8.0:
   version "3.8.0"
