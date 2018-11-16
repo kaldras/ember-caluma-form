@@ -11137,7 +11137,14 @@ sass-graph@^2.2.4:
     scss-tokenizer "^0.2.3"
     yargs "^7.0.0"
 
-sass@1.14.3, sass@^1.14.1:
+sass@1.15.1:
+  version "1.15.1"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.15.1.tgz#25a03f6813413540210580b670628360c36267d3"
+  integrity sha512-WiDa5BsePB/rQEbh/Fv2pVDUCasxuRYjW7GsWx8Ld23LY61vx1VV5Mzf/7mu5kLWKMryMqo65fzYL34HgaM47w==
+  dependencies:
+    chokidar "^2.0.0"
+
+sass@^1.14.1:
   version "1.14.3"
   resolved "https://registry.yarnpkg.com/sass/-/sass-1.14.3.tgz#b8e73fee303ab97aa4ca84b8251862257e610095"
   integrity sha512-yMpd6lYHSXX9JQ0nZzzHNa+7OuAehP7eUMOom18Z6WaITyyE+hXyKYSzsFspFotMszbwXQxfytSSJVPjEUzglg==
